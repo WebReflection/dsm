@@ -1,6 +1,6 @@
 {
   "name": "@webreflection/dsm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Map, WeakMap, Set, and WeakSet extends with either `set(key, value)` or `add(value)` that returns the value",
   "main": "./cjs/index.js",
   "scripts": {
